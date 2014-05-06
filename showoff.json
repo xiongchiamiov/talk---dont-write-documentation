@@ -1,0 +1,11 @@
+{
+	"name": "Don't Write Documentation",
+	"sections": [
+		{"section": "01-intro"},
+		{"section": "02-dont-write-documentation"},
+		{"section": "03-auto-generated-docs"},
+		{"section": "04-overly-verbose-instructions"},
+		{"section": "05-poka-yoke"},
+		{"section": "06-outro"}
+	]
+}
